@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Lato:wght@300&family=Oswald:wght@200&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -5,14 +7,54 @@
 
 body {
     background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.8);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     max-width: 1080px;
     margin:auto;
 }
 
-h1 {
-   padding-top: 10px;
-   padding-bottom: 10px;
-   padding-left: 10px;
+.header {
+    position: relative;
+    text-align: center;
+}
+
+#logo {
+    width: 30%;
+}
+
+.text-logo {
+    font-family: 'Amatic SC', cursive;
+    font-size: 10vh;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+
+.red-glow {
+    text-shadow: 0 0 3px #ff0000;
+}
+
+
+nav {
+    text-align: center;
+    font-family: 'Amatic SC', cursive
+    
+}
+
+nav a {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 6vh;
+    padding: 25px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: red;
+}
+
+hr {
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+
 }
