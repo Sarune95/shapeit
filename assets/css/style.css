@@ -52,6 +52,14 @@ nav a:hover {
     color: red;
 }
 
+@media  screen and (max-width: 700px) {
+    .text-logo {
+        font-size: 5vh;
+    }
+    nav a {
+        font-size: 4vh;
+    }
+}
 hr {
     height: 3px;
     background-color: rgba(255, 255, 255, 0.8);
