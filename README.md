@@ -24,11 +24,13 @@ background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, 
 
 - __Google fonts__
 
-Amatic SC
+for best appearance of website, hand writing fonts been choose from google fonts
+
+Amatic SC - used for page logo, navigation and important links in footer.
 
 ![font](assets/readme/amatic-sc.png)
 
-Bad Script
+Bad Script - used for main content and gallery.
 
 ![font](assets/readme/bad-script.png)
 
