@@ -37,3 +37,66 @@ Bad Script - used for main content and gallery.
 - __Page Logo__
 
 ![Logo](assets/readme/site-logo.png)
+
+- __Navigation__
+
+![navigation](assets/readme/site-nav.png)
+
+- __Website main content__
+
+![main-content](assets/readme/site-main-content.png)
+
+- __Gallery__
+
+added picture and name of poses
+
+![pose1](assets/readme/dog.png)
+
+description of poses
+
+![pose1-description](assets/readme/dog-desc.png)
+
+- __Feedback__
+
+![feedback](assets/readme/feedback.png)
+
+- __Footer__
+
+![footer](assets/readme/footer.png)
+
+![social](assets/readme/social.png)
+
+![credits](assets/readme/credits.png)
+
+![design](assets/readme/design.png)
+
+- __Thanks for Feedback__
+
+![design](assets/readme/design.png)
+
+# Testing
+
+I tested that this page works on devices: PC, Amazon tablet, 55inch Samsung TV, Nintendo Switch, Xiaomi Phone.
+Tested on multiple browsers: Opera, Chrome, Edge.
+I confirmed that this project is responsive, good looking in most screen sizes.
+I confirmed that all text is readable on most devices.
+Header, navigation, footer, contact form are readable and easy to understand.
+I confirmed that contact form works: requires entries in every field and submit button works.
+
+# Bugs
+
+# Validator testing
+
+HTML
+No errors were returned when passing through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+Accessibility
+I confirm that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+
+Desktop version:
+
+![desktop](assets/readme/lighthouse.png)
+
+Mobile version:
+
