@@ -30,7 +30,7 @@ body {
     font-family: 'Amatic SC', cursive;
     font-size: 10vh;
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 10%;
 }
 
@@ -72,6 +72,11 @@ nav a:hover {
         font-size: 4vh;
     }
 }
+
+.space {
+    height:50px;
+}
+
 .content1-pic {
     display:grid;
     align-items: center;
