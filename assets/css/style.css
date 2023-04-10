@@ -1,12 +1,16 @@
+/*----------imported google fonts----------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bad+Script&family=Covered+By+Your+Grace&family=Lato:wght@300&family=Oswald:wght@200&display=swap');
 
-/*
+/*----------selection of google fonts----------*/
+/*----------------------------------------
 font-family: 'Amatic SC', cursive;
 font-family: 'Bad Script', cursive;
 font-family: 'Covered By Your Grace', cursive;
 font-family: 'Lato', sans-serif;
 font-family: 'Oswald', sans-serif;
-*/
+----------------------------------------*/
+/*----------main page styling----------*/
 
 body {
     background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
@@ -16,6 +20,8 @@ body {
     max-width: 1080px;
     margin:auto;
 }
+
+/*----------page logo----------*/
 
 .header {
     position: relative;
@@ -45,6 +51,8 @@ body {
 .red-under:hover {
     border-bottom: 3px solid whitesmoke;
 }
+
+/*----------navigation----------*/
 
 nav {
     text-align: center;
@@ -77,6 +85,8 @@ nav a:hover {
     height:50px;
 }
 
+/*----------homepage and gallery use same styling----------*/
+
 .content1-pic {
     display:grid;
     align-items: center;
@@ -84,6 +94,7 @@ nav a:hover {
     column-gap: 5px;
     padding-top: 20px;
 }
+
 .content1-img {
     text-align: center;
 }
@@ -113,14 +124,18 @@ nav a:hover {
     }
 }
 
+/*----------footer----------*/
+
 footer {
     text-align: center;
     font-size: 24px;
     
 }
+
 footer p {
     margin:0px;
 }
+
 footer a {
     font-family: 'Amatic SC', cursive;
     text-decoration: none;
@@ -139,6 +154,8 @@ hr {
         font-size: 20px;
     }
 }
+
+/*----------feedback----------*/
 
 .content3 {
     text-align: center;
