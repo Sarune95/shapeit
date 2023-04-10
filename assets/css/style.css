@@ -116,6 +116,18 @@ nav a:hover {
 footer {
     text-align: center;
     font-size: 24px;
+    
+}
+footer p {
+    margin:0px;
+}
+footer a {
+    font-family: 'Amatic SC', cursive;
+    text-decoration: none;
+    color: black;
+    text-shadow: 0 0 3px #ff0000;
+    font-size: 30px;
+    padding: 10px;;
 }
 
 hr {
