@@ -16,6 +16,10 @@ On my feedback form readers can leave their reviews if they are happy with the p
 
 - __Site Colors__
 
+Site colors was generated using css function linear-gradient, visualizing from left to right.
+
+background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
 ![Colors](assets/readme/site-colors.png)
 
 - __Google fonts__
