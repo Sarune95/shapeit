@@ -112,3 +112,18 @@ nav a:hover {
         font-size: 20px;
     }
 }
+
+footer {
+    text-align: center;
+    font-size: 24px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 700px) {
+    footer {
+        font-size: 20px;
+    }
+}
