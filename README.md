@@ -84,6 +84,8 @@ I confirmed that contact form works: requires entries in every field and submit 
 
 # Bugs
 
+having an issue with pictures height and with.
+
 # Validator testing
 
 HTML
