@@ -29,7 +29,8 @@ body {
 }
 
 #logo {
-    width: 30%;
+    height: 460px;
+    height: 390px;
 }
 
 .text-logo {
@@ -77,10 +78,11 @@ nav a:hover {
         font-size: 15vw;
     }
     #logo {
-        width:40%
+        height: 40%;
+        width:40%;
     }
     nav a {
-        font-size: 9vw;
+        font-size: 8vw;
     }
 }
 
