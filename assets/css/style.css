@@ -1,24 +1,12 @@
-/*----------imported google fonts----------*/
-
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bad+Script&family=Covered+By+Your+Grace&family=Lato:wght@300&family=Oswald:wght@200&display=swap');
-
-/*----------selection of google fonts----------*/
-/*----------------------------------------
-font-family: 'Amatic SC', cursive;
-font-family: 'Bad Script', cursive;
-font-family: 'Covered By Your Grace', cursive;
-font-family: 'Lato', sans-serif;
-font-family: 'Oswald', sans-serif;
-----------------------------------------*/
 /*----------main page styling----------*/
 
 body {
     background-image: linear-gradient(to right, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
     color: black;
-    font-family: 'Bad Script', cursive;
     font-weight: 700;
     max-width: 1080px;
     margin:auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /*----------page logo----------*/
@@ -34,8 +22,7 @@ body {
 }
 
 .text-logo {
-    font-family: 'Amatic SC', cursive;
-    font-size: 10vh;
+    font-size: 64px;
     position: absolute;
     top: 20%;
     left: 10%;
@@ -57,7 +44,6 @@ body {
 
 nav {
     text-align: center;
-    font-family: 'Amatic SC', cursive;
     
 }
 
@@ -75,7 +61,7 @@ nav a:hover {
 
 @media  screen and (max-width: 700px) {
     .text-logo {
-        font-size: 15vw;
+        font-size: 6vw;
     }
     #logo {
         height: 40%;
@@ -105,8 +91,7 @@ nav a:hover {
 }
 
 .content1-img img {
-    height: 150px;
-    width: 150px;
+    width: 100%;
 }
 
 .content1-text {
@@ -146,7 +131,6 @@ footer p {
 }
 
 footer a {
-    font-family: 'Amatic SC', cursive;
     text-decoration: none;
     color: black;
     text-shadow: 0 0 3px #ff0000;
@@ -200,18 +184,16 @@ hr {
 
 .content3 input::placeholder {
     color:black;
-    font-family: 'Amatic SC', cursive;
     font-size: 24px;
 }
 
 .content3 textarea::placeholder {
     color: black;
-    font-family: 'Amatic SC', cursive;
+    
     font-size: 24px;
 }
 
 #submit {
-    font-family: 'Amatic SC', cursive;
     font-size: 36px;
     border: 2px solid black;
     border-radius: 15px;

@@ -19,18 +19,11 @@ Bright colors have been chosen to best describe what is yoga and what it stands 
 
 ![Colors](assets/readme/site-colors.png)
 
-- __Google fonts__
+- __fonts__
 
 
 For best appearance of the website, handwriting fonts choose from google fonts to add a sense of feeling to empower persons and give courage to try new things.
 
-Amatic SC - used for page logo, navigation and important links in footer.
-
-![font](assets/readme/amatic-sc.png)
-
-Bad Script - used for main content and gallery.
-
-![font](assets/readme/bad-script.png)
 
 - __Page Logo__
 
