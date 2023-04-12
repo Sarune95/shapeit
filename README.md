@@ -75,7 +75,7 @@ In footer, I have included sites where you can find us at any time. You can find
 
 # Testing
 
-I tested that this page works on devices: PC, Amazon tablet, 55inch Samsung TV, Nintendo Switch, Xiaomi Phone.
+I tested that this page works on devices: PC, tablet, Phone.
 Tested on multiple browsers: Opera, Chrome, Edge.
 I confirmed that this project is responsive, good looking in most screen sizes.
 I confirmed that all text is readable on most devices.
