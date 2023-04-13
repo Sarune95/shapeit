@@ -19,12 +19,6 @@ Bright colors have been chosen to best describe what is yoga and what it stands 
 
 ![Colors](assets/readme/site-colors.png)
 
-- __fonts__
-
-
-For best appearance of the website, handwriting fonts choose from google fonts to add a sense of feeling to empower persons and give courage to try new things.
-
-
 - __Page Logo__
 
 Shape It logo simply describing itself as to shape your mind and body. To grab readers attention to Shape It beside it I have an eye catching animated silhouette of yoga freestyle to make it more interesting.
@@ -77,7 +71,8 @@ I confirmed that contact form works: requires entries in every field and submit 
 
 # Bugs
 
-having an issue with pictures height and with.
+having an issue with pictures height and with.  Fixed
+problems with navigation sizing between different screen sizes. fixed
 
 # Validator testing
 
@@ -90,7 +85,8 @@ I confirm that the colors and fonts chosen are easy to read and accessible by ru
 
 Desktop version:
 
-![desktop](assets/readme/lighthouse.png)
+![desktop](assets/readme/desktop.png)
 
 Mobile version:
 
+![mobile](assets/readme/mobile.png)
