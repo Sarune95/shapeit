@@ -90,3 +90,13 @@ Desktop version:
 Mobile version:
 
 ![mobile](assets/readme/mobile.png)
+
+# Deployment
+
+Web site was deployed to GitHub pages.
+
+Live link can be found here ![Shape It](https://sarune95.github.io/shapeit/feed.html)
+
+# Credits
+
+Pictures was taken from ![Snipstock](https://snipstock.com/search?q=yoga%20poses&order=&imgType=png&category=&page=4)
