@@ -115,7 +115,10 @@ nav a:hover {
 }
 
 .content1-img {
-    text-align: center;
+    text-align: right;
+}
+.content2-img {
+    text-align: right;
 }
 
 .content1-img img {
@@ -123,13 +126,18 @@ nav a:hover {
     width: 50%;
 }
 
+.content2-img img {
+    height:auto;
+    width:37%
+}
+
 .content1-text {
-    font-size: 32px;
+    font-size: 24px;
     text-align: left;
 }
 
 .content1-p {
-    font-size: 24px;
+    font-size: 20px;
     text-align: justify;
     padding: 25px;
 }
@@ -140,6 +148,24 @@ nav a:hover {
     }
     .content1-p {
         font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .content1-text {
+        font-size: 16px;
+    }
+    .content1-p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .content1-text {
+        font-size: 14px;
+    }
+    .content1-p {
+        font-size: 16px;
     }
 }
 
@@ -168,8 +194,8 @@ hr {
 }
 
 @media screen and (max-width: 700px) {
-    footer {
-        font-size: 18px;
+    footer a {
+        font-size: 20px;
     }
 }
 
@@ -184,7 +210,7 @@ hr {
     border: 2px solid black;
     border-radius: 15px;
     height:35px;
-    width:300px;
+    width:280px;
     background-color: transparent;
     padding: 10px;
 }
@@ -193,7 +219,7 @@ hr {
     border: 2px solid black;
     border-radius: 15px;
     height:35px;
-    width:300px;
+    width:280px;
     background-color: transparent;
     padding: 10px;
 }
@@ -202,7 +228,7 @@ hr {
     border: 2px solid black;
     border-radius: 15px;
     height:90px;
-    width: 300px;
+    width: 280px;
     background-color: transparent;
     padding: 10px;
 }
@@ -214,7 +240,6 @@ hr {
 
 .content3 textarea::placeholder {
     color: black;
-    
     font-size: 24px;
 }
 
