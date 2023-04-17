@@ -1,27 +1,30 @@
 # Content
 
-1. [Introduction](#SHAPE IT)
+1. [Introduction](#shape-it)
+2. [Features](#features)
+3. [Existing Features](#existing-features)
+4. [Testing](#testing)
+5. [Bugs](#bugs)
+6. [Validator testing](#validator-testing)
+7. [Deployment](#deployment)
+8. [Credits](#credits)
 
 # SHAPE IT
-***
 
 Shape it is a site for helping people to get them out of their comfort zone and try something new such as yoga. This site is the first step for people of all age groups who want to change their lives in so many ways such as better understand about your body and mind.
 
 ![Responsive](assets/readme/responsive-site.png)
 
 # Features
-***
 
 My site is for all age groups which is why I have made simple and short for users to understand. I have explained what is yoga, by giving all the useful details of the yoga itself as the benefits it has on your body to change your life for the better, and also me put down few different basic types of yoga as there are many more types out there but these are the basic ones.
 
 ![Site](assets/readme/site2.png)
 
 # Existing Features
-***
 
-- __Site Colors__
+* Site Colors
 
-.
 Bright colors have been chosen to best describe what is yoga and what it stands for. Colors was generated using css function linear-gradient, visualizing from left to right to provide visual attraction to the transition.
 
 ![Colors](assets/readme/site-colors.png)
@@ -68,7 +71,6 @@ In footer, I have included sites where you can find us at any time. You can find
 ![footer](assets/readme/footer.png)
 
 # Testing
-***
 
 I tested that this page works on devices: PC, tablet, Phone.
 Tested on multiple browsers: Opera, Chrome, Edge.
@@ -78,13 +80,11 @@ Header, navigation, footer, contact form are readable and easy to understand.
 I confirmed that contact form works: requires entries in every field and submit button works.
 
 # Bugs
-***
 
 having an issue with pictures height and with.  Fixed
 problems with navigation sizing between different screen sizes. fixed
 
 # Validator testing
-***
 
 HTML
 No errors were returned when passing through the official W3C validator
@@ -102,13 +102,11 @@ Mobile version:
 ![mobile](assets/readme/mobile.png)
 
 # Deployment
-***
 
 Web site was deployed to GitHub pages.
 
 Live link can be found here [Shape It](https://sarune95.github.io/shapeit/index.html)
 
 # Credits
-***
 
 Pictures was taken from [Snipstock](https://snipstock.com/search?q=yoga%20poses&order=&imgType=png&category=&page=4)
