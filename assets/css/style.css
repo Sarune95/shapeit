@@ -64,37 +64,26 @@ nav a:hover {
 
 /*----------homepage and gallery use same styling----------*/
 
-.content1-pic {
+.picture-align {
     display:grid;
     align-items: center;
     grid-template-columns: 1fr 1fr;
     column-gap: 5px;
     padding-top: 20px;
-}
-
-.content1-img {
-    text-align: right;
-}
-.content2-img {
     text-align: right;
 }
 
-.content1-img img {
+.picture-align img {
     height:auto;
     width: 50%;
 }
 
-.content2-img img {
-    height:auto;
-    width:37%
-}
-
-.content1-text {
+.text-align {
     font-size: 24px;
     text-align: left;
 }
 
-.content1-p {
+.description {
     font-size: 20px;
     text-align: justify;
     padding: 25px;
@@ -126,7 +115,7 @@ hr {
 
 /*----------feedback----------*/
 
-.content3 {
+.about {
     text-align: center;
     font-size: 24px;
 }
@@ -149,7 +138,7 @@ hr {
     padding: 10px;
 }
 
-.content3 textarea {
+.about textarea {
     border: 2px solid black;
     border-radius: 15px;
     height:90px;
@@ -158,12 +147,12 @@ hr {
     padding: 10px;
 }
 
-.content3 input::placeholder {
+.about input::placeholder {
     color:black;
     font-size: 24px;
 }
 
-.content3 textarea::placeholder {
+.about textarea::placeholder {
     color: black;
     font-size: 24px;
 }
@@ -218,28 +207,28 @@ hr {
 }
 
 @media screen and (max-width: 700px) {
-    .content1-text {
+    .text-align {
         font-size: 18px;
     }
-    .content1-p {
+    .description {
         font-size: 20px;
     }
 }
 
 @media screen and (max-width: 700px) {
-    .content1-text {
+    .text-align {
         font-size: 16px;
     }
-    .content1-p {
+    .description {
         font-size: 18px;
     }
 }
 
 @media screen and (max-width: 700px) {
-    .content1-text {
+    .text-align {
         font-size: 14px;
     }
-    .content1-p {
+    .description {
         font-size: 16px;
     }
 }
