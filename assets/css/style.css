@@ -31,11 +31,11 @@ body {
     text-shadow: 0 0 3px #ff0000;
 }
 
-.red-under {
+.active {
     border-bottom: 3px solid black;
 }
 
-.red-under:hover {
+.active:hover {
     border-bottom: 3px solid whitesmoke;
 }
 
@@ -57,48 +57,6 @@ nav a {
 nav a:hover {
     color: whitesmoke;
 }
-
-@media  screen and (max-width: 700px) {
-    #logo {
-        height: 40%;
-        width:40%;
-    }
-    .text-logo {
-        font-size: 42px;
-    }
-    nav a {
-        font-size: 36px;
-    }
-}
-
-@media  screen and (max-width: 500px) {
-    #logo {
-        height: 40%;
-        width:40%;
-    }
-    .text-logo {
-        font-size: 36px;
-    }
-    nav a {
-        font-size: 26px;
-    }
-}
-
-@media  screen and (max-width: 400px) {
-    #logo {
-        height: 40%;
-        width:40%;
-    }
-    .text-logo {
-        font-size: 24px;
-    }
-    nav a {
-        font-size: 18px;
-        padding-left: 5px;
-        padding-right: 5px;
-    }
-}
-
 
 .space {
     height:50px;
@@ -142,33 +100,6 @@ nav a:hover {
     padding: 25px;
 }
 
-@media screen and (max-width: 700px) {
-    .content1-text {
-        font-size: 18px;
-    }
-    .content1-p {
-        font-size: 20px;
-    }
-}
-
-@media screen and (max-width: 700px) {
-    .content1-text {
-        font-size: 16px;
-    }
-    .content1-p {
-        font-size: 18px;
-    }
-}
-
-@media screen and (max-width: 700px) {
-    .content1-text {
-        font-size: 14px;
-    }
-    .content1-p {
-        font-size: 16px;
-    }
-}
-
 /*----------footer----------*/
 
 footer {
@@ -191,12 +122,6 @@ footer a {
 
 hr {
     border: 1px solid black;
-}
-
-@media screen and (max-width: 700px) {
-    footer a {
-        font-size: 20px;
-    }
 }
 
 /*----------feedback----------*/
@@ -249,4 +174,78 @@ hr {
     border-radius: 15px;
     background-color: black;
     color:whitesmoke;
+}
+
+@media  screen and (max-width: 700px) {
+    #logo {
+        height: 40%;
+        width:40%;
+    }
+    .text-logo {
+        font-size: 42px;
+    }
+    nav a {
+        font-size: 36px;
+    }
+}
+
+@media  screen and (max-width: 500px) {
+    #logo {
+        height: 40%;
+        width:40%;
+    }
+    .text-logo {
+        font-size: 36px;
+    }
+    nav a {
+        font-size: 26px;
+    }
+}
+
+@media  screen and (max-width: 400px) {
+    #logo {
+        height: 40%;
+        width:40%;
+    }
+    .text-logo {
+        font-size: 24px;
+    }
+    nav a {
+        font-size: 18px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .content1-text {
+        font-size: 18px;
+    }
+    .content1-p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .content1-text {
+        font-size: 16px;
+    }
+    .content1-p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .content1-text {
+        font-size: 14px;
+    }
+    .content1-p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    footer a {
+        font-size: 20px;
+    }
 }
